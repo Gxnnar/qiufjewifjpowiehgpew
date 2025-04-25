@@ -13,7 +13,7 @@ Value
       "WiFi": {
          "AutoConnect": true,
          "HiddenSSID": false,
-         "Passphrase": "********",
+         "Passphrase": "5tud3nt5@wf15d",
          "SSID": "WFISDX",
          "Security": "WPA-PSK"
       }
