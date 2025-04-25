@@ -1,0 +1,37 @@
+Value
+{
+   "GlobalNetworkConfiguration": {
+      "AllowOnlyPolicyNetworksToAutoconnect": false
+   },
+   "NetworkConfigurations": [ {
+      "GUID": "WFISDX-WPA-PSK",
+      "Name": "WFISDX",
+      "ProxySettings": {
+         "Type": "Direct"
+      },
+      "Type": "WiFi",
+      "WiFi": {
+         "AutoConnect": true,
+         "HiddenSSID": false,
+         "Passphrase": "********",
+         "SSID": "WFISDX",
+         "Security": "WPA-PSK"
+      }
+   }, {
+      "GUID": "{1a28ecba-a393-47ff-a820-ceeaaa985a39}",
+      "Name": "WFISD",
+      "ProxySettings": {
+         "Type": "Direct"
+      },
+      "StaticIPConfig": {
+      },
+      "Type": "WiFi",
+      "WiFi": {
+         "AutoConnect": true,
+         "HiddenSSID": false,
+         "Passphrase": "5tud3nt5@wf15d",
+         "SSID": "WFISD",
+         "Security": "WPA-PSK"
+      }
+   } ]
+}
